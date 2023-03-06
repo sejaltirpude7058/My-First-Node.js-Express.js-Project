@@ -15,19 +15,33 @@
 
 //1. Books
 //We need an API :-
-//To get all the books
-//to get a specific book
-//To get a list of books based on category
-//To get a list of books based on languages
+//To get all the books -done
+//to get a specific book-done
+//To get a list of books based on category -done
+//To get a list of books based on languages -done
 
 //2. Authors 
 //We need an API :-
-//To get all the authors
-//To get a specific author
-//To get a list of authors based on books
+//To get all the authors -done
+//To get a specific author -done
+//To get a list of authors based on books -done
 
 //3. PUBLICATIONS
 //We need an API:-
-//To get all the publications
-//To get a specific publication
-//To get a list of publications based on a book
+//To get all the publications -done
+//To get a specific publication -done
+//To get a list of publications based on a book -done
+
+//4. POST Method request
+//ADD NEW BOOKS -DONE
+//ADD NEW AUTHORS -DONE
+//ADD NEW PUBLICATIONS -Done
+
+/********PUT*********/
+//Update a book details if author is changed. -Done
+
+
+/********DELETE*********/
+//1. DELETE A BOOK - DONE
+//2. DELETE A AUTHOR - DONE
+//3. DELETE AUTHOR FROM BOOK AND RELATED BOOK FROM AUTHOR -Done
